@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(white, orange, red);
+    
+}
+
+header, nav, section, footer{
+
+    background: lightcyan;
+
+    border-style: 1;
+    margin: 10px;
+    width: 99%;
+    padding: 20px;
+    display: block;
+    border-radius: 20px;
+    
+}
+
+a{
+    text-decoration: none;
+    
+}
